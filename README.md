@@ -1,1 +1,1 @@
-# django_definitive_guide
+# Small codes writen in Python
