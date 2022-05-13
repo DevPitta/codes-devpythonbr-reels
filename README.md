@@ -1,1 +1,1 @@
-# Small codes writen in Python
+# Small codes written in Python
