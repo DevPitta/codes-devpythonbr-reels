@@ -1,3 +1,11 @@
+"""
+This code uses the speedtest-cli library
+and results in internet connection data.
+
+-> Requirements:
+    . pip install speedtest-cli
+"""
+
 import speedtest
 import webbrowser
 
